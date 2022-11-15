@@ -26,6 +26,7 @@ public class MyHashMap {
         return res;
     }
 
+    @SuppressWarnings("unchecked")
     public MyHashMap(int capacity, float loadFactor) {
         this.capacity = calc(capacity);
         this.loadFactor = loadFactor;
