@@ -36,6 +36,13 @@
 
 ### 6. Exercise 6
 
+测试数据：`./Data/Sample.in`
+
+输出用例：`./Data/Sample.out`
+
+
+### 7. Exercise 7
+
 测试数据：已经限定
 
 输出用例：`./Data/Sample.out`

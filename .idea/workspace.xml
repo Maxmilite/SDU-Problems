@@ -1,116 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46f152ec-9a2a-4617-b763-cd25ffbb873b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Data/Sample1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Data/Sample2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise2/Data/Sample1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise2/Data/Sample2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise2/Data/Sample3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Data/Sample1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Data/Sample1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Data/Sample2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Data/Sample2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise4/Data/Sample1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/Sample.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Data/Sample.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Data/Sample.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise7/Data/Sample.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise7/MyNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Main$Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Main$Vec2d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Main$Vec3d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem1/Calendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem1/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/A1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/A1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/A2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/A2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/A3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/A3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/C1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/C1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/C2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/C2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/C3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/C3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/S1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/S1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/S2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/S2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/S3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/S3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/old/A1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/old/A1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/old/A2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/old/A2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/old/A3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/old/A3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/old/C1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/old/C1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/old/C2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/old/C2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/old/C3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/old/C3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/old/S1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/old/S1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/old/S2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/old/S2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Data/old/S3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Data/old/S3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/StudentManager$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/StudentManager$Curriculum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/StudentManager$FileTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem5/StudentManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem6/Data/A1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Data/A1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem6/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem6/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem6/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem6/Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem6/Staff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem6/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem6/data6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Data/data.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem7/LinkList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem7/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem7/MyHashMap$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem7/MyHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SDU-Problems/Problem7/MyNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem1/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Calendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem1/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/A1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/A2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/A3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/C1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/C2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/C3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/S1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/S2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/S3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/old/A1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/old/A2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/old/A3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/old/C1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/old/C2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/old/C3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/old/S1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/old/S2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Data/old/S3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem5/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise5/StudentManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem6/Data/A1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem6/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem6/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem6/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem6/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem6/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Staff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem6/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise6/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem6/data6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem7/LinkList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem7/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise7/MyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Problem7/MyNode.java" beforeDir="false" />
-    </list>
+    <list default="true" id="46f152ec-9a2a-4617-b763-cd25ffbb873b" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -282,6 +173,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668060156169</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1668498835817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668498835817</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,5 +196,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
