@@ -60,6 +60,10 @@ public class StudentManager {
                         }
                         String var2 = scanner.next();
                         int var3 = scanner.nextInt();
+                        if (!lessonMap.containsKey(var2)) {
+                            System.err.printf((Library.CURRICULUM_NOT_FOUND) + "%n", var2);
+                            continue;
+                        }
                         try {
                             if (studentMap.get(var1).credit.containsKey(var2)) {
                                 studentMap.get(var1).creditScoreTotal -= (studentMap.get(var1).credit.get(var2) / 10.0 - 5) * lessonMap.get(var2).credit;
